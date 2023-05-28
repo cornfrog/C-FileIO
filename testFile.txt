@@ -1,0 +1,2 @@
+Writting to file with fprintf()
+Writting to file with fputs()
